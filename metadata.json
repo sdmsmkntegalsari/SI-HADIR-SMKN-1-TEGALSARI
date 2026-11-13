@@ -1,0 +1,6 @@
+{
+  "name": "SI-HADIR SMKN 1 Tegalsari",
+  "description": "Sistem Presensi & Manajemen Kehadiran Otomatis Guru dan Pegawai SMKN 1 Tegalsari (Hadir, Dinas Luar, Cuti, Pendidikan & Pelatihan).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
